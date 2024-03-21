@@ -16,21 +16,19 @@ MySQL Database Integration: 💾 User credentials are stored and managed in a My
 </table>
 
 ## Prerequisites 📋
-Microsoft Visual Studio (or compatible IDE for .NET development) 🧰
+Microsoft Visual Studio (or compatible IDE for .NET development) 
 
-XAMPP (for MySQL and Apache server simulation) 🖥️
+XAMPP (for MySQL and Apache server simulation) 
 ## Database Setup 🛠️
-Start XAMPP and initialize the MySQL and Apache servers. 🔄
+Start XAMPP and initialize the MySQL and Apache servers.
 
-Create a new database named Authentication. 🗃️
+Create a new database named Authentication.
 
-Inside the Authentication database, create a table named users with two columns: UserName and Password. 🔠
+Inside the Authentication database, create a table named users with two columns: UserName and Password.
 ## Installation 📥
-Clone the repository to your local machine. 📌
-
-Open the solution file in Visual Studio. 📂
-
-Ensure XAMPP servers are running and the MySQL database is configured as mentioned above. ✅
+Clone the repository to your local machine.
+Open the solution file in Visual Studio.
+Ensure XAMPP servers are running and the MySQL database is configured as mentioned above.
 
 Build and run the application within Visual Studio. 🏗️
 ## Usage 🔍
