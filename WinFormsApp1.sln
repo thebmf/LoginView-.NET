@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.vbproj", "{EF43B555-E9EB-441F-9D7D-62389C0D3CC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{11CFDA14-60A1-4A24-8B8F-B6E62E2FC3C8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\exit.png = ..\..\..\Downloads\exit.png
+		..\..\..\Downloads\lock.png = ..\..\..\Downloads\lock.png
+		..\..\..\Downloads\user.png = ..\..\..\Downloads\user.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF43B555-E9EB-441F-9D7D-62389C0D3CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF43B555-E9EB-441F-9D7D-62389C0D3CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF43B555-E9EB-441F-9D7D-62389C0D3CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF43B555-E9EB-441F-9D7D-62389C0D3CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8689FED-E029-4C14-812E-6D1D797E9D4A}
+	EndGlobalSection
+EndGlobal
