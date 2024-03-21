@@ -27,9 +27,11 @@ Create a new database named Authentication.
 Inside the Authentication database, create a table named users with two columns: UserName and Password.
 ## Installation 📥
 Clone the repository to your local machine.
+
 Open the solution file in Visual Studio.
+
 Ensure XAMPP servers are running and the MySQL database is configured as mentioned above.
 
-Build and run the application within Visual Studio. 🏗️
+Build and run the application within Visual Studio.
 ## Usage 🔍
-Upon launching the application, users will be greeted with the login form. New users can switch to the registration form to create a new account.📝 Once registered, users can log in to the system using their chosen credentials. 🔐
+Upon launching the application, users will be greeted with the login form. New users can switch to the registration form to create a new account. Once registered, users can log in to the system using their chosen credentials. 🔐
