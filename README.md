@@ -6,10 +6,13 @@ User Registration: New users can create an account by providing a username and p
 User Login: Existing users can log in using their credentials. The form includes a "Show password" feature for convenience.
 MySQL Database Integration: User credentials are stored and managed in a MySQL database.
 ## Screenshots
-<p align="center">
-  <img src="images/LoginForm.jpg" alt="Login Form" style="float: left; margin-right: 10px;" />
-  <img src="images/RegisterForm.jpg" alt="Registration Form" style="float: left; margin-left: 10px;" />
-</p>
+<table>
+  <tr>
+    <td><img src="images/LoginForm.jpg" alt="Login Form" width="300"/></td>
+    <td><img src="images/RegisterForm.jpg" alt="Registration Form" width="300"/></td>
+  </tr>
+</table>
+
 ## Prerequisites
 Microsoft Visual Studio (or compatible IDE for .NET development)
 XAMPP (for MySQL and Apache server simulation)
