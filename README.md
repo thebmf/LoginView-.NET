@@ -17,6 +17,7 @@ MySQL Database Integration:💾 User credentials are stored and managed in a MyS
 
 ## Prerequisites 📋
 Microsoft Visual Studio (or compatible IDE for .NET development) 🧰
+
 XAMPP (for MySQL and Apache server simulation) 🖥️
 ## Database Setup 🛠️
 Start XAMPP and initialize the MySQL and Apache servers. 🔄
