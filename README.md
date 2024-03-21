@@ -3,7 +3,9 @@ This repository contains a simple yet functional login and registration form sys
 
 ## Features 🌟
 User Registration:📝 New users can create an account by providing a username and password. The system also includes a password confirmation field for validation.
+
 User Login:🔑 Existing users can log in using their credentials. The form includes a "Show password" feature for convenience.👀
+
 MySQL Database Integration:💾 User credentials are stored and managed in a MySQL database.
 ## Screenshots 📸
 <table>
