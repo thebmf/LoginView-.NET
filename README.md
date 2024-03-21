@@ -34,4 +34,4 @@ Ensure XAMPP servers are running and the MySQL database is configured as mention
 
 Build and run the application within Visual Studio.
 ## Usage 🔍
-Upon launching the application, users will be greeted with the login form. New users can switch to the registration form to create a new account. Once registered, users can log in to the system using their chosen credentials. 🔐
+Upon launching the application, users will be greeted with the login form. New users can switch to the registration form to create a new account. Once registered, users can log in to the system using their chosen credentials.
